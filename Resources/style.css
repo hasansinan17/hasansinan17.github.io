@@ -1,0 +1,18 @@
+.logo {
+    font-weight: bold;
+    background-color: georgian;
+    color: white;
+    font-size: 60px;
+    font-style:normal;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+
+}
+
+.text {
+    float: right;
+}
